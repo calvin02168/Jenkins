@@ -3,3 +3,4 @@ Branching test commit 1
 Master merge test.
 Branch test.
 Branch Test2.
+HAHA2
